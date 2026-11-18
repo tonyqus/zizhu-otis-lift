@@ -4,7 +4,7 @@
 |---|---|---|---|
 | 1号楼 | 唯一一部 | 518743 | <img width="518" height="346" alt="image" src="https://github.com/user-attachments/assets/62143b8d-a558-42b0-94a7-e32216049434" /> |
 | 3号楼 | 唯一一部 | 560784 | <img width="970" height="774" alt="image" src="https://github.com/user-attachments/assets/ec2e9d2c-dd67-408b-af18-b02210577372" /> |
-| 4号楼 | 唯一一部 | 184246 | <img width="978" height="690" alt="image" src="https://github.com/user-attachments/assets/2967ef9d-9a22-4801-8fe8-446736b056c6" />|
+| 4号楼 | 唯一一部 | 184246 | <img width="928" height="626" alt="image" src="https://github.com/user-attachments/assets/7235c53b-612a-4a5b-a327-492296ea90b1" /> |
 | 5号楼 | 唯一一部 | 884860 |  <img width="1000" height="798" alt="image" src="https://github.com/user-attachments/assets/ee131893-58b2-4a86-83bd-df335b9b2901" />｜
 | 7号楼 | 外侧 | 827743 | <img width="313" height="237" alt="image" src="https://github.com/user-attachments/assets/7e457255-2f7d-444b-898b-3b3ae1f790cd" /> |
 | 8号楼 | 外侧 | 550991 | <img width="593" height="425" alt="image" src="https://github.com/user-attachments/assets/241682d9-8724-4752-8fd4-1c841035c5f0" /> |
